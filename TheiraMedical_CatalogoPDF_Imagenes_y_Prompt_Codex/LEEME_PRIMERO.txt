@@ -1,0 +1,21 @@
+CONTENIDO DEL PAQUETE
+
+1. `PROMPT_CODEX_ACTUALIZAR_PAGINA_CON_CATALOGO.txt`
+   Pega este prompt completo en Codex.
+
+2. `Gallery/CatalogoPDF/`
+   29 imágenes extraídas directamente del catálogo PDF y renombradas por servicio/categoría.
+
+3. `Gallery/logo-theira-transparente.png`
+   Logo preparado anteriormente para la web.
+
+4. `Reference/catalogo-original-theira-medical.pdf`
+   PDF original. Codex debe tratarlo como la fuente principal de contenido para esta actualización.
+
+5. `MAPA_IMAGENES.md`
+   Explica de qué página/categoría proviene cada imagen y cómo usarla.
+
+Antes de pegar el prompt, extrae este ZIP dentro de la raíz de:
+C:\Users\brand\OneDrive\Desktop\Proyectos paginas wb\TheiraMedical
+
+De forma que queden visibles las carpetas `Gallery` y `Reference` para Codex.

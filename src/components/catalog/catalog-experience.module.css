@@ -1,0 +1,105 @@
+.index {
+  position: sticky;
+  top: 76px;
+  z-index: 30;
+  margin-inline: -28px;
+  border-block: 1px solid var(--color-beige);
+  background: color-mix(in srgb, var(--color-ivory), transparent 5%);
+  padding: 10px 28px;
+  backdrop-filter: blur(12px);
+}
+
+.indexTrack { display: flex; max-width: 1104px; margin-inline: auto; gap: 7px; overflow-x: auto; padding-inline: 2px 14px; scroll-behavior: smooth; scroll-padding-inline: 2px; scroll-snap-type: x proximity; overscroll-behavior-inline: contain; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+.indexTrack::-webkit-scrollbar { display: none; }
+
+.indexButton, .categoryButton, .consultButton, .showAllButton, .closingButton {
+  display: inline-flex;
+  min-height: 40px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  font-size: 0.86rem;
+  font-weight: 600;
+  transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease;
+}
+
+.indexButton { min-height: 36px; flex: 0 0 auto; scroll-snap-align: start; border: 1px solid var(--color-beige); padding-inline: 14px; font-size: 0.76rem; white-space: nowrap; }
+.indexButton:hover, .categoryButton:hover, .showAllButton:hover { background: var(--color-warm-white); }
+.indexButtonActive, .indexButtonActive:hover { border-color: var(--color-coffee); background: var(--color-coffee); color: white; }
+
+.categories { display: grid; gap: 52px; margin-top: 44px; }
+.category { scroll-margin-top: 164px; }
+.categoryHeader { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 28px; align-items: stretch; margin-bottom: 18px; border-bottom: 1px solid var(--color-beige); padding-bottom: 18px; }
+.categoryCopy { align-self: center; }
+.categoryNumber, .categorySubtitle, .imageNote { color: var(--color-terracotta); font-size: 0.73rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+.categoryHeader h2 { max-width: 46rem; margin-top: 7px; font-family: var(--font-heading); font-size: clamp(1.6rem, 2.5vw, 2.2rem); font-weight: 600; line-height: 1.08; letter-spacing: -0.018em; }
+.categorySubtitle { margin-top: 8px; }
+.categoryDescription { max-width: 44rem; margin-top: 9px; color: var(--color-muted); font-size: 0.94rem; line-height: 1.55; }
+.categoryButton { gap: 7px; margin-top: 14px; border: 1px solid var(--color-coffee); padding-inline: 16px; }
+.categoryButton svg, .showAllButton svg, .closingButton svg { width: 15px; height: 15px; }
+
+.categoryImage { position: relative; min-height: 188px; overflow: hidden; border-radius: 18px; background: var(--color-beige); }
+.coverImage, .treatmentImage { object-fit: cover; }
+
+.treatmentGrid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+.treatmentCard { display: grid; min-height: 178px; grid-template-columns: 118px minmax(0, 1fr); column-gap: 16px; row-gap: 6px; scroll-margin-top: 164px; overflow: hidden; border: 1px solid var(--color-beige); border-radius: 20px; background: var(--color-warm-white); padding: 18px; }
+.treatmentVisual { position: relative; min-height: 118px; grid-row: 1 / span 2; overflow: hidden; border-radius: 16px; background: var(--color-beige); }
+
+.treatmentContent { display: flex; min-width: 0; flex-direction: column; }
+.treatmentContent h3 { font-family: var(--font-heading); font-size: clamp(1.15rem, 1.45vw, 1.28rem); font-weight: 600; line-height: 1.12; }
+.treatmentDescription { display: -webkit-box; margin-top: 6px; overflow: hidden; color: var(--color-muted); font-size: 0.92rem; line-height: 1.42; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
+.cardFooter { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: auto; }
+.assessmentPill, .pricePill { display: inline-flex; min-height: 27px; align-items: center; border-radius: 999px; padding: 5px 9px; font-size: 0.73rem; font-weight: 600; line-height: 1.1; }
+.assessmentPill { background: color-mix(in srgb, var(--color-nude), white 43%); color: #70483a; }
+.pricePill { background: var(--color-beige); }
+.consultButton { min-height: 38px; flex: 0 0 auto; background: var(--color-coffee); padding-inline: 15px; color: white; font-size: 0.86rem; }
+.consultButton:hover, .closingButton:hover { background: var(--color-terracotta); }
+
+.supportingPanel, .pricePanel { margin-top: 16px; border: 1px solid var(--color-beige); border-radius: 20px; background: color-mix(in srgb, var(--color-beige), white 42%); padding: 18px 20px; }
+.supportingEyebrow { color: var(--color-terracotta); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+.supportingPanel h3, .pricePanel h3 { margin-top: 4px; font-family: var(--font-heading); font-size: 1.2rem; font-weight: 600; }
+.supportingPanel > p:not(.supportingEyebrow) { max-width: 52rem; margin-top: 6px; color: var(--color-muted); font-size: 0.9rem; line-height: 1.5; }
+.supportingPanel ul { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px; }
+.supportingPanel li { border-radius: 999px; background: var(--color-warm-white); padding: 6px 10px; color: var(--color-coffee); font-size: 0.78rem; font-weight: 500; }
+.supportingPanel li span { display: block; margin-top: 3px; color: var(--color-muted); font-weight: 400; }
+.pricePanel { scroll-margin-top: 164px; background: var(--color-warm-white); }
+.confirmedPriceGrid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 6px 18px; margin-top: 14px; }
+.confirmedPriceGrid div { display: flex; justify-content: space-between; gap: 8px; border-bottom: 1px solid var(--color-beige); padding-block: 6px; font-size: 0.82rem; }
+.confirmedPriceGrid strong { color: var(--color-terracotta); }
+.priceNote { margin-top: 8px; color: var(--color-muted); font-size: 0.78rem; line-height: 1.45; }
+.showAllButton { gap: 7px; margin: 40px auto 0; border: 1px solid var(--color-coffee); padding-inline: 17px; }
+.showAllButton svg { rotate: 180deg; }
+.closing { margin-top: 52px; border-top: 1px solid var(--color-beige); padding-top: 24px; text-align: center; }
+.closing p { font-family: var(--font-heading); font-size: 1.35rem; font-weight: 600; }
+.closingButton { gap: 7px; margin-top: 14px; background: var(--color-coffee); padding-inline: 17px; color: white; }
+
+.indexButton:focus-visible, .categoryButton:focus-visible, .consultButton:focus-visible, .showAllButton:focus-visible, .closingButton:focus-visible, .priceDetails summary:focus-visible { outline: 2px solid var(--color-terracotta); outline-offset: 3px; }
+
+@media (max-width: 900px) {
+  .index { margin-inline: -22px; padding-inline: 22px; }
+  .categoryHeader { grid-template-columns: minmax(0, 1fr) 270px; }
+  .treatmentGrid { grid-template-columns: 1fr; }
+  .treatmentCard { min-height: 166px; }
+}
+
+@media (max-width: 700px) {
+  .index { margin-inline: -16px; padding-inline: 16px; }
+  .categories { gap: 48px; margin-top: 34px; }
+  .categoryHeader { grid-template-columns: 1fr; gap: 14px; }
+  .categoryImage { min-height: 156px; }
+}
+
+@media (max-width: 600px) {
+  .treatmentGrid { gap: 18px; }
+  .treatmentCard { min-height: 0; grid-template-columns: 94px minmax(0, 1fr); column-gap: 13px; row-gap: 7px; border-radius: 18px; padding: 16px; }
+  .treatmentVisual { min-height: 100px; grid-row: 1; }
+  .treatmentDescription { font-size: 0.9rem; -webkit-line-clamp: 4; }
+  .cardFooter { grid-column: 1 / -1; }
+  .cardFooter { flex-wrap: wrap; }
+  .assessmentPill, .pricePill { font-size: 0.71rem; }
+  .confirmedPriceGrid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (min-width: 601px) and (max-width: 900px) { .confirmedPriceGrid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+
+@media (min-width: 1024px) { .index { top: 92px; } }

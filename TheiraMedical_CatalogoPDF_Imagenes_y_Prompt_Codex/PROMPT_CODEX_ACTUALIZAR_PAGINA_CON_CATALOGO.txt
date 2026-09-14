@@ -1,0 +1,789 @@
+Actualiza el proyecto EXISTENTE de Theira Medical ubicado en:
+
+C:\Users\brand\OneDrive\Desktop\Proyectos paginas wb\TheiraMedical
+
+NO reinicialices el proyecto. NO borres funcionalidades que ya sirven. NO instales dependencias nuevas. NO ejecutes npm update, npm audit fix ni npm audit fix --force. Conserva package-lock.json, .npmrc, el override seguro de js-yaml@4.3.1 y todos los controles de seguridad existentes.
+
+El proyecto ya usa Next.js + React + TypeScript + Tailwind CSS. Trabaja únicamente con lo que ya está instalado.
+
+==================================================
+FUENTE DE VERDAD PARA ESTA ACTUALIZACIÓN
+==================================================
+
+Dentro del material que te entregaré existe:
+
+Reference/catalogo-original-theira-medical.pdf
+
+Ese PDF es el catálogo actual de la Dra. Jenifer Gordillo Salazar y debe ser la fuente principal del contenido, organización, nombres de tratamientos, descripciones, datos profesionales y contacto.
+
+También existe:
+
+Gallery/CatalogoPDF/
+
+con las imágenes extraídas directamente del catálogo y renombradas para usarlas fácilmente.
+
+NO inventes servicios, indicaciones médicas, certificaciones, resultados, precios, dosis, duración de tratamientos ni contraindicaciones que no estén en el PDF o en los datos ya confirmados del proyecto.
+
+Si el PDF no muestra un precio, utiliza únicamente:
+- “Consultar precio”
+- o “Requiere valoración”
+
+No inventes precios a partir de imágenes, publicaciones antiguas ni referencias.
+
+==================================================
+RECURSOS DE IMAGEN
+==================================================
+
+Copia:
+
+Gallery/CatalogoPDF
+
+hacia:
+
+public/Gallery/catalogo
+
+sin cambiar los nombres.
+
+Copia también:
+
+Gallery/logo-theira-transparente.png
+
+hacia:
+
+public/Gallery/logo-theira-transparente.png
+
+si todavía no existe.
+
+Usa next/image en todas las imágenes.
+
+FOTOS REALES DE LA DRA. JENIFER
+
+Estas dos sí corresponden a la doctora y vienen en su catálogo:
+
+/public/Gallery/catalogo/doctora-jenifer-retrato-bienvenida.png
+/public/Gallery/catalogo/doctora-jenifer-retrato-contacto.png
+
+Usa:
+- `doctora-jenifer-retrato-bienvenida.png` en Hero o “Sobre la doctora”.
+- `doctora-jenifer-retrato-contacto.png` en la CTA final o Contacto.
+
+IMPORTANTE CON LAS DEMÁS IMÁGENES
+
+Las demás imágenes fueron extraídas de su catálogo, pero no debes afirmar que muestran:
+- pacientes reales de la clínica,
+- resultados propios,
+- instalaciones reales,
+- antes/después propios,
+
+salvo que exista confirmación explícita.
+
+En especial:
+
+`despigmentacion-axilas-antes-despues-referencia.png`
+
+puede quedar fuera del sitio por ahora o usarse únicamente si se rotula como imagen de referencia. No la presentes como resultado real.
+
+==================================================
+NUEVO ENFOQUE DEL SITIO
+==================================================
+
+El PDF demuestra que Theira Medical ofrece muchos más servicios que los seis que actualmente aparecen en la página.
+
+Quiero que la web deje de sentirse como una página principalmente de depilación láser y pase a presentarse como el sitio profesional completo de:
+
+Dra. Jenifer Gordillo Salazar
+Theira Medical
+Medicina Estética · Regenerativa · Antienvejecimiento
+
+La depilación láser sigue siendo importante, pero debe ser una categoría más dentro de un catálogo mucho más amplio.
+
+==================================================
+NAVEGACIÓN
+==================================================
+
+Simplifica el menú a algo parecido a:
+
+- Inicio
+- Sobre la doctora
+- Catálogo
+- Depilación láser
+- Contacto
+- Agendar cita
+
+El enlace “Catálogo” debe llevar a:
+
+/catalogo
+
+Ya no quiero “Servicios” y “Precios” como elementos separados.
+
+Conserva `/precios` para no romper enlaces existentes, pero haz que redirija de forma permanente o segura hacia:
+
+/catalogo
+
+o hacia:
+
+/catalogo#depilacion-laser
+
+si consideras que eso conserva mejor los enlaces previos.
+
+==================================================
+PÁGINA PRINCIPAL /
+==================================================
+
+Mantén la línea visual actual de la página, pero actualízala con el contenido real del catálogo.
+
+PALETA
+
+Conserva la estética Theira:
+- blanco cálido,
+- marfil,
+- beige,
+- terracota/nude,
+- café oscuro,
+- detalles sutiles y elegantes.
+
+TIPOGRAFÍA
+
+Conserva la combinación profesional-casual actual si ya quedó implementada:
+- DM Sans para cuerpo, navegación, precios y botones.
+- Lora para títulos editoriales.
+
+No instales nuevas fuentes ni paquetes.
+
+--------------------------------------------------
+1. HERO
+--------------------------------------------------
+
+Usa la fotografía real:
+
+/public/Gallery/catalogo/doctora-jenifer-retrato-bienvenida.png
+
+Quiero que la doctora tenga mucho más protagonismo que una imagen genérica.
+
+Marca:
+
+Dra. Jenifer Gordillo Salazar
+THEIRA MEDICAL
+
+Texto de posicionamiento basado en el catálogo:
+
+“Medicina Estética · Regenerativa · Antienvejecimiento”
+
+Puedes usar como apoyo el texto del catálogo, sin agregar afirmaciones nuevas:
+
+“Médica con formación en Medicina Estética, Antienvejecimiento y Regenerativa, enfocada en el cuidado integral de la salud, la belleza y el bienestar.”
+
+CTA principales:
+- “Ver catálogo” → /catalogo
+- “Agendar valoración” → WhatsApp
+
+--------------------------------------------------
+2. SOBRE LA DOCTORA
+--------------------------------------------------
+
+Usa como fuente el texto de la página 2 del catálogo.
+
+Contenido:
+
+“Médica con formación en Medicina Estética, Antienvejecimiento y Regenerativa, enfocada en el cuidado integral de la salud, la belleza y el bienestar. Mi objetivo es ofrecer una atención personalizada, basada en la valoración médica y en protocolos diseñados de acuerdo con las necesidades y objetivos de cada paciente.”
+
+No inventes universidad, especialidad médica, cédula, años de experiencia o certificaciones.
+
+--------------------------------------------------
+3. CATÁLOGO DESTACADO EN HOME
+--------------------------------------------------
+
+Reemplaza la sección actual de seis servicios por una sección llamada:
+
+“Catálogo de servicios”
+
+No intentes mostrar todos los tratamientos individuales en la página principal.
+
+Muestra tarjetas de CATEGORÍAS, por ejemplo:
+
+1. Inyectables & rellenos
+2. Calidad de piel
+3. Medicina regenerativa
+4. Renovación, textura & cicatrices
+5. Tecnología, cuidado de la piel & remoción
+6. Composición corporal & tratamiento médico del peso
+7. Salud hormonal
+8. Terapia neural & procedimientos
+
+Cada tarjeta debe tener:
+- imagen,
+- nombre de categoría,
+- una línea corta,
+- botón “Ver tratamientos”.
+
+El botón debe llevar a la sección correspondiente dentro de `/catalogo`.
+
+No muestres precios inventados en estas categorías.
+
+Para depilación láser sí puedes mostrar:
+
+“Desde $130 por sesión”
+
+porque la lista actual confirmada incluye Bigote — $130.
+
+Para otras categorías usa:
+
+“Consultar precio”
+
+o
+“Valoración previa”
+
+cuando corresponda.
+
+--------------------------------------------------
+4. DEPILACIÓN LÁSER
+--------------------------------------------------
+
+Conserva una sección destacada de depilación láser en home, pero usa la imagen extraída del catálogo:
+
+/public/Gallery/catalogo/depilacion-laser-piernas.png
+
+Mantén la lista de precios confirmada existente en el proyecto:
+
+- Axila — $250
+- Bikini completo — $300
+- Bigote — $130
+- Piernas completas — $425
+- Media pierna — $340
+- Brazos completos — $320
+- Medio brazo — $250
+- Abdomen — $300
+- Media espalda — $300
+- Espalda completa — $450
+- Línea del abdomen — $180
+- Glúteos — $300
+- Media cara — $270
+
+Texto prudente:
+
+“Tratamiento dirigido a lograr una reducción progresiva del crecimiento del vello mediante tecnología láser.”
+
+No uses “depilación definitiva”, “eliminación permanente” ni resultados garantizados.
+
+--------------------------------------------------
+5. CTA FINAL / CONTACTO
+--------------------------------------------------
+
+Usa:
+
+/public/Gallery/catalogo/doctora-jenifer-retrato-contacto.png
+
+Inspírate visualmente en la última página del PDF.
+
+Título:
+
+“Agenda tu valoración”
+
+Texto:
+
+“Tu bienestar comienza con una valoración personalizada. Diseñemos juntos el protocolo adecuado para ti.”
+
+Botón:
+
+“Agenda tu cita”
+
+==================================================
+NUEVA RUTA /catalogo
+==================================================
+
+Crea una página completa en:
+
+/catalogo
+
+Esta será la URL que posteriormente conectaremos a un código QR en la tarjeta de presentación.
+
+Debe cargar rápido, verse excelente en teléfono y mantener la identidad visual del catálogo PDF sin copiarlo literalmente como una imagen.
+
+Quiero que se sienta como una versión web moderna del catálogo.
+
+--------------------------------------------------
+PORTADA DEL CATÁLOGO
+--------------------------------------------------
+
+Puedes utilizar:
+
+/public/Gallery/catalogo/catalogo-portada-modelo-negro-dorado.png
+
+como imagen editorial de portada.
+
+No la presentes como paciente real.
+
+Título:
+
+“Menú de servicios”
+
+Subtítulo:
+
+“Medicina Estética & Bienestar Funcional”
+
+Marca:
+
+“Dra. Jenifer Gordillo Salazar”
+“Medicina Estética · Regenerativa · Antienvejecimiento”
+
+Añade un índice visual o filtros de categoría para saltar rápidamente por el catálogo.
+
+No instales librerías para los filtros: React + Tailwind + APIs nativas.
+
+==================================================
+CONTENIDO DEL CATÁLOGO
+==================================================
+
+CENTRALIZA TODO en un archivo como:
+
+src/data/catalog.ts
+
+o amplía `src/data/services.ts` si queda más limpio.
+
+No escribas todo directamente en JSX.
+
+Usa tipos TypeScript claros para:
+- Category
+- Treatment
+- image
+- title
+- description
+- bullets
+- priceLabel opcional
+- requiresAssessment
+- whatsappMessage
+- anchors
+
+--------------------------------------------------
+CATEGORÍA 1
+INYECTABLES & RELLENOS
+--------------------------------------------------
+
+Imágenes disponibles:
+
+- /Gallery/catalogo/inyectables-acido-hialuronico-aplicacion.png
+- /Gallery/catalogo/inyectables-toxina-botulinica-aplicacion.png
+- /Gallery/catalogo/inyectables-lips-booster-labios.png
+
+TRATAMIENTOS
+
+Ácido hialurónico
+Descripción del catálogo:
+“Tratamiento personalizado para restaurar, definir y armonizar diferentes áreas del rostro.”
+
+Aplicaciones listadas:
+- Rinomodelación
+- Perfilamiento mandibular
+- Armonización
+- Aumento y definición de labios
+
+Lips Booster
+Descripción:
+“Tratamiento enfocado para mejorar hidratación, textura y color de los labios.”
+
+Toxina botulínica
+Descripción:
+“Suaviza líneas de expresión y ayuda a preservar una apariencia natural y equilibrada.”
+
+Tratamientos/listado:
+- Lips Booster
+- Mesobotox
+- Líneas de expresión
+- Bruxismo / maseteros
+- Hiperhidrosis
+
+No agregues precios porque el PDF no los proporciona.
+
+--------------------------------------------------
+CATEGORÍA 2
+CALIDAD DE PIEL
+--------------------------------------------------
+
+Imágenes:
+- /Gallery/catalogo/calidad-piel-tratamiento-facial.png
+- /Gallery/catalogo/calidad-piel-retrato-editorial.png
+
+Subtítulo:
+“Hidratación · Revitalización · Bioestimulación”
+
+Tratamientos:
+- Skinbooster
+- Bacio
+- PDRN / Polinucleótidos
+- Bioestimulación
+- Exosomas
+
+Texto:
+“Protocolos personalizados para mejorar la hidratación, textura, luminosidad y calidad de la piel.”
+
+Mantén el término “Bacio” tal como aparece en el catálogo; no lo corrijas ni sustituyas sin confirmación.
+
+--------------------------------------------------
+CATEGORÍA 3
+MEDICINA REGENERATIVA
+--------------------------------------------------
+
+Imágenes:
+- /Gallery/catalogo/medicina-regenerativa-prp-facial.png
+- /Gallery/catalogo/medicina-regenerativa-rostro-conceptual.png
+
+PRP facial:
+“Protocolos con plasma autólogo orientados a mejorar la calidad y apariencia de la piel.”
+
+PRP capilar:
+“Tratamiento dirigido al cuero cabelludo como parte de protocolos para mejorar las condiciones del folículo.”
+
+Bioestimulación:
+“Tratamientos orientados a favorecer la producción y remodelación de componentes de la matriz extracelular.”
+
+Protocolos regenerativos personalizados:
+“Combinaciones seleccionadas de acuerdo con la valoración y necesidades de cada paciente.”
+
+Sitios de aplicación listados en el catálogo:
+- Facial
+- Cuello
+- Escote
+- Manos
+- Capilar
+- Articular
+
+Texto editorial:
+“Regeneración · Bioestimulación · Reparación tisular”
+
+--------------------------------------------------
+CATEGORÍA 4
+RENOVACIÓN · TEXTURA · CICATRICES
+--------------------------------------------------
+
+Imagen:
+- /Gallery/catalogo/renovacion-peeling-facial.png
+
+Peeling para acné:
+“Ayuda a mejorar la apariencia de la piel con tendencia acneica y favorece su renovación.”
+
+Peeling para manchas / melasma:
+“Protocolos orientados a mejorar progresivamente la apariencia de hiperpigmentaciones y favorecer un tono más uniforme.”
+
+Dermapen para cicatrices:
+“Microneedling orientado a favorecer la remodelación cutánea y mejorar progresivamente la apariencia de cicatrices.”
+
+Añade:
+“Protocolos individualizados.”
+
+--------------------------------------------------
+CATEGORÍA 5
+TECNOLOGÍA · CUIDADO DE LA PIEL · REMOCIÓN
+--------------------------------------------------
+
+Imágenes:
+- /Gallery/catalogo/despigmentacion-zona-intima-referencia.png
+- /Gallery/catalogo/depilacion-laser-piernas.png
+- /Gallery/catalogo/hollywood-peel-tratamiento.png
+- /Gallery/catalogo/eliminacion-tatuaje-pico-laser.png
+
+Despigmentación de axilas:
+“Protocolos personalizados para mejorar progresivamente la apariencia de hiperpigmentación y favorecer un tono más uniforme.”
+
+NO utilices la imagen antes/después como resultado real por ahora.
+
+Despigmentación de zona íntima:
+“Tratamiento dirigido a mejorar la apariencia del tono de la piel de la región íntima externa, previa valoración.”
+
+Depilación láser:
+“Tratamiento dirigido a lograr una reducción progresiva del crecimiento del vello mediante tecnología láser.”
+
+Hollywood Peel:
+“Tratamiento de renovación y revitalización cutánea que ayuda a mejorar luminosidad, textura y apariencia general de la piel.”
+
+Eliminación de tatuaje · Pico Láser
+Usa la imagen:
+`/Gallery/catalogo/eliminacion-tatuaje-pico-laser.png`
+
+No inventes número de sesiones, resultados ni precio.
+
+--------------------------------------------------
+CATEGORÍA 6
+EVALUACIÓN · TRATAMIENTO MÉDICO · COMPOSICIÓN CORPORAL
+--------------------------------------------------
+
+Imágenes disponibles:
+- /Gallery/catalogo/composicion-corporal-modelo-recortado.png
+- /Gallery/catalogo/composicion-corporal-caliper.png
+- /Gallery/catalogo/nutricion-alimentacion.png
+- /Gallery/catalogo/composicion-corporal-mancuerna.png
+- /Gallery/catalogo/composicion-corporal-cinta-metrica.png
+- /Gallery/catalogo/tratamiento-glp1-pluma.png
+- /Gallery/catalogo/composicion-corporal-mancuerna-2.png
+
+Valoración de composición corporal:
+“Evaluación integral para conocer la distribución de masa grasa, masa muscular y otros componentes corporales, estableciendo objetivos personalizados.”
+
+Tratamiento médico del peso:
+
+Tratamiento con GLP-1:
+“Tratamiento farmacológico indicado para pacientes candidatos, bajo valoración, prescripción y seguimiento médico.”
+
+Nutrición y suplementación:
+“Estrategias nutricionales y de suplementación adaptadas a las necesidades y objetivos de cada paciente.”
+
+Protocolos corporales:
+“Estrategias médico-estéticas que pueden combinarse con el tratamiento médico para acompañar la reducción de grasa localizada y mejorar la apariencia corporal.”
+
+Texto de apoyo del catálogo:
+“Un abordaje integral puede combinar tratamiento médico, nutrición, seguimiento de composición corporal y protocolos médico-estéticos.”
+
+IMPORTANTE:
+No agregues recomendaciones farmacológicas, dosis, marcas, promesas de pérdida de peso ni mensajes de compra de medicamentos.
+Conserva la frase de valoración/prescripción/seguimiento médico.
+
+--------------------------------------------------
+CATEGORÍA 7
+SALUD HORMONAL
+--------------------------------------------------
+
+Imágenes:
+- /Gallery/catalogo/salud-hormonal-mujeres-maduras.png
+- /Gallery/catalogo/salud-hormonal-hombre.png
+- /Gallery/catalogo/salud-hormonal-ejercicio-pesas.png
+- /Gallery/catalogo/salud-hormonal-sueno-descanso.png
+
+Hormonas bioidénticas:
+“Hormonas con una estructura molecular equivalente a las hormonas producidas naturalmente por el organismo. Su uso forma parte de un manejo médico individualizado, basado en la valoración clínica y las necesidades de cada paciente.”
+
+Situaciones listadas en el catálogo:
+- Menopausia
+- Andropausia
+- Sueño y descanso
+- Energía y vitalidad
+- Composición corporal
+- Bienestar sexual
+
+Usa únicamente los textos descriptivos del PDF. No añadas beneficios, indicaciones o afirmaciones médicas externas.
+
+--------------------------------------------------
+CATEGORÍA 8
+TERAPIA NEURAL & PROCEDIMIENTOS
+--------------------------------------------------
+
+Imágenes:
+- /Gallery/catalogo/terapia-neural-aplicaciones.png
+- /Gallery/catalogo/eliminacion-verrugas-procedimiento.png
+
+Terapia neural:
+“Procedimiento médico que utiliza aplicaciones locales de anestésicos en puntos específicos de dolor, de acuerdo con la valoración clínica y el protocolo indicado para cada paciente.”
+
+Eliminación de verrugas:
+“Valoración previa de la lesión y selección del procedimiento adecuado según sus características y localización.”
+
+==================================================
+PRECIOS
+==================================================
+
+El PDF no incluye precios generales.
+
+Por eso:
+- NO inventes precios para ácido hialurónico, toxina botulínica, Lips Booster, calidad de piel, medicina regenerativa, peelings, despigmentación, eliminación de tatuajes, composición corporal, GLP-1, salud hormonal, terapia neural o eliminación de verrugas.
+- Usa “Consultar precio” o “Valoración previa”.
+
+La ÚNICA lista numérica ya confirmada en el proyecto es depilación láser:
+
+- Axila — $250
+- Bikini completo — $300
+- Bigote — $130
+- Piernas completas — $425
+- Media pierna — $340
+- Brazos completos — $320
+- Medio brazo — $250
+- Abdomen — $300
+- Media espalda — $300
+- Espalda completa — $450
+- Línea del abdomen — $180
+- Glúteos — $300
+- Media cara — $270
+
+Mantén “Precios por sesión”.
+
+==================================================
+CONTACTO REAL DEL CATÁLOGO
+==================================================
+
+Actualiza `src/config/site.ts` usando los datos que aparecen en la página 11 del catálogo:
+
+Instagram:
+@theira_medical
+https://www.instagram.com/theira_medical/
+
+Dirección:
+Calle Jaime Nuno 512
+Moroleón, Gto.
+
+Teléfono / WhatsApp:
++52 445 215 1625
+
+Usa el número para enlaces WhatsApp en formato internacional sin espacios:
+
+524452151625
+
+Mensaje general sugerido:
+
+“Hola, me gustaría recibir información y agendar una valoración con la Dra. Jenifer Gordillo Salazar.”
+
+Cada tratamiento puede tener su propio mensaje contextual.
+
+==================================================
+DISEÑO DE /catalogo
+==================================================
+
+Quiero que visualmente recuerde al PDF:
+- fondos marfil/blanco cálido,
+- títulos editoriales oscuros,
+- mucho espacio limpio,
+- fotografías grandes,
+- líneas finas,
+- bloques editoriales,
+- sensación premium pero médica y cercana.
+
+NO conviertas cada tratamiento en una tarjeta idéntica estilo e-commerce.
+
+Alterna composiciones:
+- texto + imagen,
+- imagen + lista,
+- bloques de 2 o 3 tratamientos,
+- títulos grandes de categoría,
+- pequeños divisores.
+
+Debe sentirse como un catálogo editorial digital, no como una tienda online.
+
+En móvil debe ser muy fácil recorrerlo desde un QR.
+
+Añade una navegación interna sticky o compacta de categorías si cabe sin saturar.
+
+==================================================
+CTA Y WHATSAPP
+==================================================
+
+Cada categoría y tratamiento debe ofrecer acceso sencillo a WhatsApp.
+
+Ejemplo:
+“Consultar este tratamiento”
+
+El mensaje debe incluir el nombre del tratamiento elegido.
+
+No uses formularios falsos.
+
+==================================================
+SEO
+==================================================
+
+Actualiza metadatos del home:
+
+Título:
+“Dra. Jenifer Gordillo Salazar | Theira Medical”
+
+Descripción:
+“Medicina estética, regenerativa y antienvejecimiento en Moroleón, Guanajuato. Consulta tratamientos y agenda una valoración con la Dra. Jenifer Gordillo Salazar.”
+
+Para /catalogo:
+
+Título:
+“Catálogo de servicios | Theira Medical”
+
+Descripción:
+“Consulta el catálogo de servicios de medicina estética, regenerativa, antienvejecimiento, depilación láser y bienestar funcional de Theira Medical.”
+
+==================================================
+COMPATIBILIDAD CON QR
+==================================================
+
+La página `/catalogo` debe diseñarse pensando en que posteriormente un código QR impreso en tarjetas apuntará a una URL permanente, por ejemplo:
+
+https://DOMINIO/catalogo
+
+No generes todavía un QR si no existe dominio definitivo.
+
+La ruta `/catalogo` debe permanecer estable para que podamos imprimirla después.
+
+==================================================
+ACCESIBILIDAD Y RESPONSIVE
+==================================================
+
+Comprueba:
+- 360 px
+- 390 px
+- 768 px
+- 1024 px
+- 1366 px
+- 1440 px
+- 1920 px
+
+Debe cumplir:
+- sin scroll horizontal,
+- buen contraste,
+- alt descriptivos,
+- botones accesibles,
+- navegación con teclado,
+- focus visible,
+- menú móvil funcional,
+- imágenes correctamente recortadas,
+- prefers-reduced-motion.
+
+==================================================
+SEGURIDAD
+==================================================
+
+NO instales dependencias.
+NO cambies versiones.
+NO ejecutes npm update.
+NO uses npm audit fix.
+NO uses npm audit fix --force.
+NO borres package-lock.json.
+NO elimines .npmrc.
+NO cambies el override seguro de js-yaml@4.3.1.
+
+Conserva ignore-scripts=true y los controles ya existentes.
+
+==================================================
+VALIDACIÓN FINAL
+==================================================
+
+Al terminar ejecuta, usando los scripts existentes:
+
+npm run security:check
+npm audit --audit-level=high
+npm run typecheck
+npm run lint
+npm run build
+
+Comprueba además:
+- `/`
+- `/catalogo`
+- `/precios` redirige correctamente
+- enlaces de categorías
+- enlaces de WhatsApp
+- teléfono correcto
+- dirección correcta
+- Instagram correcto
+- imágenes reales de la doctora
+- que no aparezca “Theira Medical Spa”
+- que no queden servicios anteriores incorrectos o incompletos
+- que no se inventen precios
+- que la página se vea bien en móvil, ya que el catálogo se abrirá desde QR.
+
+==================================================
+ENTREGA
+==================================================
+
+No te limites a describir los cambios: impleméntalos.
+
+Al finalizar muéstrame:
+- archivos modificados,
+- estructura final del catálogo,
+- categorías creadas,
+- imágenes asignadas a cada categoría,
+- datos de contacto aplicados,
+- cualquier término del PDF que necesite confirmación,
+- resultado de security:check,
+- resultado de npm audit,
+- resultado de typecheck,
+- resultado de lint,
+- resultado de build.

@@ -1,0 +1,2354 @@
+npm warn Unknown project config "allow-remote". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+⨯ The requested resource isn't a valid image for /Gallery/doctora-hero.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/doctora-hero.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/depilacion-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/doctora-perfil.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/consultorio-1.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/consultorio-2.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-1.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-2.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/depilacion-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-facial.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/doctora-hero.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/doctora-perfil.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/consultorio-1.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/depilacion-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/consultorio-2.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-1.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-2.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/depilacion-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-facial.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/depilacion-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/doctora-hero.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/doctora-perfil.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/precios-depilacion.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/precios-faciales.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/equipo-laser.jpg received null
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+⨯ The requested resource isn't a valid image for /Gallery/doctora-hero.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/depilacion-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/doctora-perfil.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/precios-depilacion.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/precios-faciales.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/equipo-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/doctora-hero.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/depilacion-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/doctora-perfil.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/consultorio-1.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/consultorio-2.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-1.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-2.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/depilacion-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-facial.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/precios-depilacion.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/precios-faciales.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/equipo-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/doctora-hero.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/depilacion-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/doctora-perfil.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/consultorio-1.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/consultorio-2.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-1.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-2.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/depilacion-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-facial.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/precios-depilacion.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/precios-faciales.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/equipo-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/doctora-hero.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/depilacion-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/doctora-perfil.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/consultorio-1.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/consultorio-2.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-1.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-2.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/depilacion-laser.jpg received null
+⨯ The requested resource isn't a valid image for /Gallery/tratamiento-facial.jpg received null
+⨯ ./src/components/sections/services-section.tsx:3:1
+Error: Module not found: Can't resolve '@/data/services'
+  [90m1 |[0m [36mimport[0m { [33mClipboardCheck[0m, [33mFlower2[0m, [33mHeartPulse[0m, [33mScanLine[0m, [33mSparkles[0m, [33mWaves[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { serviceCards, [36mtype[0m [33mServiceCard[0m } [36mfrom[0m [32m"@/data/services"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/data/services' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/services-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/services-section.tsx:3:1
+Error: Module not found: Can't resolve '@/data/services'
+  [90m1 |[0m [36mimport[0m { [33mClipboardCheck[0m, [33mFlower2[0m, [33mHeartPulse[0m, [33mScanLine[0m, [33mSparkles[0m, [33mWaves[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { serviceCards, [36mtype[0m [33mServiceCard[0m } [36mfrom[0m [32m"@/data/services"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/data/services' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/services-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/precios/page.tsx:10:1
+Error: Module not found: Can't resolve '@/data/services'
+  [90m 8 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+  [90m 9 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { futureServiceGroups, laserPrices } [36mfrom[0m [32m"@/data/services"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { formatMexicanPrice } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mexport[0m [36mconst[0m metadata: [33mMetadata[0m = {
+
+Import map: aliased to relative './src/data/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/precios/page.tsx:10:1
+Error: Module not found: Can't resolve '@/data/services'
+  [90m 8 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+  [90m 9 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { futureServiceGroups, laserPrices } [36mfrom[0m [32m"@/data/services"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { formatMexicanPrice } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mexport[0m [36mconst[0m metadata: [33mMetadata[0m = {
+
+Import map: aliased to relative './src/data/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/precios/page.tsx:10:1
+Error: Module not found: Can't resolve '@/data/services'
+  [90m 8 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+  [90m 9 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+[31m[1m>[0m [90m10 |[0m [36mimport[0m { futureServiceGroups, laserPrices } [36mfrom[0m [32m"@/data/services"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m11 |[0m [36mimport[0m { formatMexicanPrice } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m12 |[0m
+  [90m13 |[0m [36mexport[0m [36mconst[0m metadata: [33mMetadata[0m = {
+
+Import map: aliased to relative './src/data/services' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/services-section.tsx:3:1
+Error: Module not found: Can't resolve '@/data/services'
+  [90m1 |[0m [36mimport[0m { [33mClipboardCheck[0m, [33mFlower2[0m, [33mHeartPulse[0m, [33mScanLine[0m, [33mSparkles[0m, [33mWaves[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { serviceCards, [36mtype[0m [33mServiceCard[0m } [36mfrom[0m [32m"@/data/services"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/data/services' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/services-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/services-section.tsx:3:1
+Error: Module not found: Can't resolve '@/data/services'
+  [90m1 |[0m [36mimport[0m { [33mClipboardCheck[0m, [33mFlower2[0m, [33mHeartPulse[0m, [33mScanLine[0m, [33mSparkles[0m, [33mWaves[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { serviceCards, [36mtype[0m [33mServiceCard[0m } [36mfrom[0m [32m"@/data/services"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/data/services' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/services-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/services-section.tsx:3:1
+Error: Module not found: Can't resolve '@/data/services'
+  [90m1 |[0m [36mimport[0m { [33mClipboardCheck[0m, [33mFlower2[0m, [33mHeartPulse[0m, [33mScanLine[0m, [33mSparkles[0m, [33mWaves[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { serviceCards, [36mtype[0m [33mServiceCard[0m } [36mfrom[0m [32m"@/data/services"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/data/services' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/services-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/services-section.tsx:3:1
+Error: Module not found: Can't resolve '@/data/services'
+  [90m1 |[0m [36mimport[0m { [33mClipboardCheck[0m, [33mFlower2[0m, [33mHeartPulse[0m, [33mScanLine[0m, [33mSparkles[0m, [33mWaves[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { serviceCards, [36mtype[0m [33mServiceCard[0m } [36mfrom[0m [32m"@/data/services"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/data/services' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/services-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/layout.tsx:4:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m2 |[0m [36mimport[0m { [33mCormorant_Garamond[0m, [33mManrope[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { siteUrl } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/layout.tsx:4:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m2 |[0m [36mimport[0m { [33mCormorant_Garamond[0m, [33mManrope[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { siteUrl } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/layout.tsx:4:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m2 |[0m [36mimport[0m { [33mCormorant_Garamond[0m, [33mManrope[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { siteUrl } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/layout.tsx:4:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m2 |[0m [36mimport[0m { [33mCormorant_Garamond[0m, [33mManrope[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { siteUrl } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/precios/page.tsx:9:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 7 |[0m [36mimport[0m { [33mWhatsAppFloatingButton[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-floating-button"[0m;
+  [90m 8 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+[31m[1m>[0m [90m 9 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m10 |[0m [36mimport[0m { futureServiceGroups, laserPrices } [36mfrom[0m [32m"@/data/services"[0m;
+  [90m11 |[0m [36mimport[0m { formatMexicanPrice } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m12 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/precios/page.tsx:9:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 7 |[0m [36mimport[0m { [33mWhatsAppFloatingButton[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-floating-button"[0m;
+  [90m 8 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+[31m[1m>[0m [90m 9 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m10 |[0m [36mimport[0m { futureServiceGroups, laserPrices } [36mfrom[0m [32m"@/data/services"[0m;
+  [90m11 |[0m [36mimport[0m { formatMexicanPrice } [36mfrom[0m [32m"@/lib/utils"[0m;
+  [90m12 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/app/precios/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/app/precios/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/layout.tsx:4:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m2 |[0m [36mimport[0m { [33mCormorant_Garamond[0m, [33mManrope[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { siteUrl } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/layout.tsx:4:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m2 |[0m [36mimport[0m { [33mCormorant_Garamond[0m, [33mManrope[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { siteUrl } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/footer.tsx:6:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m4 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m5 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m
+  [90m8 |[0m [36mexport[0m [36mfunction[0m [33mFooter[0m() {
+  [90m9 |[0m   [36mconst[0m year = [36mnew[0m [33mDate[0m().getFullYear();
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/footer.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/footer.tsx:6:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m4 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m5 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m
+  [90m8 |[0m [36mexport[0m [36mfunction[0m [33mFooter[0m() {
+  [90m9 |[0m   [36mconst[0m year = [36mnew[0m [33mDate[0m().getFullYear();
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/footer.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/contact-section.tsx:3:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m1 |[0m [36mimport[0m { [33mClock3[0m, [33mInstagram[0m, [33mMapPin[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/contact-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/contact-section.tsx:3:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m1 |[0m [36mimport[0m { [33mClock3[0m, [33mInstagram[0m, [33mMapPin[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/contact-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/layout.tsx:4:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m2 |[0m [36mimport[0m { [33mCormorant_Garamond[0m, [33mManrope[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { siteUrl } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/layout.tsx:4:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m2 |[0m [36mimport[0m { [33mCormorant_Garamond[0m, [33mManrope[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { siteUrl } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/footer.tsx:6:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m4 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m5 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m
+  [90m8 |[0m [36mexport[0m [36mfunction[0m [33mFooter[0m() {
+  [90m9 |[0m   [36mconst[0m year = [36mnew[0m [33mDate[0m().getFullYear();
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/footer.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/footer.tsx:6:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m4 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m5 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m
+  [90m8 |[0m [36mexport[0m [36mfunction[0m [33mFooter[0m() {
+  [90m9 |[0m   [36mconst[0m year = [36mnew[0m [33mDate[0m().getFullYear();
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/footer.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/contact-section.tsx:3:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m1 |[0m [36mimport[0m { [33mClock3[0m, [33mInstagram[0m, [33mMapPin[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/contact-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/contact-section.tsx:3:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m1 |[0m [36mimport[0m { [33mClock3[0m, [33mInstagram[0m, [33mMapPin[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/contact-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/layout.tsx:4:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m2 |[0m [36mimport[0m { [33mCormorant_Garamond[0m, [33mManrope[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { siteUrl } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/layout.tsx:4:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m2 |[0m [36mimport[0m { [33mCormorant_Garamond[0m, [33mManrope[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { siteUrl } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/footer.tsx:6:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m4 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m5 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m
+  [90m8 |[0m [36mexport[0m [36mfunction[0m [33mFooter[0m() {
+  [90m9 |[0m   [36mconst[0m year = [36mnew[0m [33mDate[0m().getFullYear();
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/footer.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/footer.tsx:6:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m4 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m5 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m
+  [90m8 |[0m [36mexport[0m [36mfunction[0m [33mFooter[0m() {
+  [90m9 |[0m   [36mconst[0m year = [36mnew[0m [33mDate[0m().getFullYear();
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/footer.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/contact-section.tsx:3:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m1 |[0m [36mimport[0m { [33mClock3[0m, [33mInstagram[0m, [33mMapPin[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/contact-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/contact-section.tsx:3:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m1 |[0m [36mimport[0m { [33mClock3[0m, [33mInstagram[0m, [33mMapPin[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/contact-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/layout.tsx:4:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m2 |[0m [36mimport[0m { [33mCormorant_Garamond[0m, [33mManrope[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { siteUrl } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/layout.tsx:4:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m2 |[0m [36mimport[0m { [33mCormorant_Garamond[0m, [33mManrope[0m } [36mfrom[0m [32m"next/font/google"[0m;
+  [90m3 |[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { siteUrl } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mimport[0m [32m"./globals.css"[0m;
+  [90m7 |[0m
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/footer.tsx:6:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m4 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m5 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m
+  [90m8 |[0m [36mexport[0m [36mfunction[0m [33mFooter[0m() {
+  [90m9 |[0m   [36mconst[0m year = [36mnew[0m [33mDate[0m().getFullYear();
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/footer.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/footer.tsx:6:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m4 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m5 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m
+  [90m8 |[0m [36mexport[0m [36mfunction[0m [33mFooter[0m() {
+  [90m9 |[0m   [36mconst[0m year = [36mnew[0m [33mDate[0m().getFullYear();
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/footer.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/header.tsx:7:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m 5 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+  [90m 6 |[0m
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m
+  [90m 9 |[0m [36mimport[0m { [33mBrandLogo[0m } [36mfrom[0m [32m"@/components/ui/brand-logo"[0m;
+  [90m10 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/layout/header.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/contact-section.tsx:3:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m1 |[0m [36mimport[0m { [33mClock3[0m, [33mInstagram[0m, [33mMapPin[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/contact-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/sections/contact-section.tsx:3:1
+Error: Module not found: Can't resolve '@/config/site'
+  [90m1 |[0m [36mimport[0m { [33mClock3[0m, [33mInstagram[0m, [33mMapPin[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mimport[0m { [33mSectionHeading[0m } [36mfrom[0m [32m"@/components/ui/section-heading"[0m;
+  [90m6 |[0m [36mimport[0m { [33mWhatsAppLink[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-link"[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/components/sections/contact-section.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/lib/whatsapp.ts:1:1
+Error: Module not found: Can't resolve '@/config/site'
+[31m[1m>[0m [90m1 |[0m [36mimport[0m { siteConfig } [36mfrom[0m [32m"@/config/site"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m2 |[0m
+  [90m3 |[0m [36mexport[0m [36mfunction[0m getWhatsAppUrl(message: string = siteConfig.whatsappMessage) {
+  [90m4 |[0m   [36mreturn[0m [32m`https://wa.me/[0m${siteConfig.whatsappNumber[32m}?text=[0m${encodeURIComponent(message)[32m}`[0m;
+
+Import map: aliased to relative './src/config/site' inside of [project]/
+
+
+Import traces:
+  Server Component:
+    ./src/lib/whatsapp.ts
+    ./src/components/ui/whatsapp-link.tsx
+    ./src/components/ui/whatsapp-floating-button.tsx
+    ./src/app/page.tsx
+
+  Client Component Browser:
+    ./src/lib/whatsapp.ts [Client Component Browser]
+    ./src/components/ui/whatsapp-link.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Client Component Browser]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/lib/whatsapp.ts [Client Component SSR]
+    ./src/components/ui/whatsapp-link.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Client Component SSR]
+    ./src/components/layout/header.tsx [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:9:1
+Error: Module not found: Can't resolve '@/components/sections/services-section'
+  [90m 7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m 8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+[31m[1m>[0m [90m 9 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m10 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+  [90m11 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/layout/header"[0m;
+  [90m12 |[0m [36mimport[0m { [33mWhatsAppFloatingButton[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-floating-button"[0m;
+
+Import map: aliased to relative './src/components/sections/services-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:9:1
+Error: Module not found: Can't resolve '@/components/sections/services-section'
+  [90m 7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m 8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+[31m[1m>[0m [90m 9 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m10 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+  [90m11 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/layout/header"[0m;
+  [90m12 |[0m [36mimport[0m { [33mWhatsAppFloatingButton[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-floating-button"[0m;
+
+Import map: aliased to relative './src/components/sections/services-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:9:1
+Error: Module not found: Can't resolve '@/components/sections/services-section'
+  [90m 7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m 8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+[31m[1m>[0m [90m 9 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m10 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+  [90m11 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/layout/header"[0m;
+  [90m12 |[0m [36mimport[0m { [33mWhatsAppFloatingButton[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-floating-button"[0m;
+
+Import map: aliased to relative './src/components/sections/services-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:9:1
+Error: Module not found: Can't resolve '@/components/sections/services-section'
+  [90m 7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m 8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+[31m[1m>[0m [90m 9 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m10 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+  [90m11 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/layout/header"[0m;
+  [90m12 |[0m [36mimport[0m { [33mWhatsAppFloatingButton[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-floating-button"[0m;
+
+Import map: aliased to relative './src/components/sections/services-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:9:1
+Error: Module not found: Can't resolve '@/components/sections/services-section'
+  [90m 7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m 8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+[31m[1m>[0m [90m 9 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m10 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+  [90m11 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/layout/header"[0m;
+  [90m12 |[0m [36mimport[0m { [33mWhatsAppFloatingButton[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-floating-button"[0m;
+
+Import map: aliased to relative './src/components/sections/services-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:9:1
+Error: Module not found: Can't resolve '@/components/sections/services-section'
+  [90m 7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m 8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+[31m[1m>[0m [90m 9 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m10 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+  [90m11 |[0m [36mimport[0m { [33mHeader[0m } [36mfrom[0m [32m"@/components/layout/header"[0m;
+  [90m12 |[0m [36mimport[0m { [33mWhatsAppFloatingButton[0m } [36mfrom[0m [32m"@/components/ui/whatsapp-floating-button"[0m;
+
+Import map: aliased to relative './src/components/sections/services-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Error: Module not found: Can't resolve '@/components/sections/laser-section'
+  [90m 5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+  [90m 6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m10 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+
+Import map: aliased to relative './src/components/sections/laser-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Error: Module not found: Can't resolve '@/components/sections/laser-section'
+  [90m 5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+  [90m 6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m10 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+
+Import map: aliased to relative './src/components/sections/laser-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Error: Module not found: Can't resolve '@/components/sections/laser-section'
+  [90m 5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+  [90m 6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m10 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+
+Import map: aliased to relative './src/components/sections/laser-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Error: Module not found: Can't resolve '@/components/sections/laser-section'
+  [90m 5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+  [90m 6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m10 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+
+Import map: aliased to relative './src/components/sections/laser-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Error: Module not found: Can't resolve '@/components/sections/laser-section'
+  [90m 5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+  [90m 6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m10 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+
+Import map: aliased to relative './src/components/sections/laser-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Error: Module not found: Can't resolve '@/components/sections/laser-section'
+  [90m 5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+  [90m 6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+[31m[1m>[0m [90m 7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+  [90m 9 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m10 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+
+Import map: aliased to relative './src/components/sections/laser-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/sections/gallery-section'
+  [90m3 |[0m [36mimport[0m { [33mDoctorSection[0m } [36mfrom[0m [32m"@/components/sections/doctor-section"[0m;
+  [90m4 |[0m [36mimport[0m { [33mFaqSection[0m } [36mfrom[0m [32m"@/components/sections/faq-section"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+  [90m7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+
+Import map: aliased to relative './src/components/sections/gallery-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/sections/gallery-section'
+  [90m3 |[0m [36mimport[0m { [33mDoctorSection[0m } [36mfrom[0m [32m"@/components/sections/doctor-section"[0m;
+  [90m4 |[0m [36mimport[0m { [33mFaqSection[0m } [36mfrom[0m [32m"@/components/sections/faq-section"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+  [90m7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+
+Import map: aliased to relative './src/components/sections/gallery-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/sections/gallery-section'
+  [90m3 |[0m [36mimport[0m { [33mDoctorSection[0m } [36mfrom[0m [32m"@/components/sections/doctor-section"[0m;
+  [90m4 |[0m [36mimport[0m { [33mFaqSection[0m } [36mfrom[0m [32m"@/components/sections/faq-section"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+  [90m7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+
+Import map: aliased to relative './src/components/sections/gallery-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/sections/gallery-section'
+  [90m3 |[0m [36mimport[0m { [33mDoctorSection[0m } [36mfrom[0m [32m"@/components/sections/doctor-section"[0m;
+  [90m4 |[0m [36mimport[0m { [33mFaqSection[0m } [36mfrom[0m [32m"@/components/sections/faq-section"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+  [90m7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+
+Import map: aliased to relative './src/components/sections/gallery-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/sections/gallery-section'
+  [90m3 |[0m [36mimport[0m { [33mDoctorSection[0m } [36mfrom[0m [32m"@/components/sections/doctor-section"[0m;
+  [90m4 |[0m [36mimport[0m { [33mFaqSection[0m } [36mfrom[0m [32m"@/components/sections/faq-section"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+  [90m7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+
+Import map: aliased to relative './src/components/sections/gallery-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/sections/gallery-section'
+  [90m3 |[0m [36mimport[0m { [33mDoctorSection[0m } [36mfrom[0m [32m"@/components/sections/doctor-section"[0m;
+  [90m4 |[0m [36mimport[0m { [33mFaqSection[0m } [36mfrom[0m [32m"@/components/sections/faq-section"[0m;
+[31m[1m>[0m [90m5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+  [90m7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m8 |[0m [36mimport[0m { [33mPricesPreviewSection[0m } [36mfrom[0m [32m"@/components/sections/prices-preview-section"[0m;
+
+Import map: aliased to relative './src/components/sections/gallery-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:6:1
+Error: Module not found: Can't resolve '@/components/sections/hero-section'
+  [90m4 |[0m [36mimport[0m { [33mFaqSection[0m } [36mfrom[0m [32m"@/components/sections/faq-section"[0m;
+  [90m5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m8 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m9 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+
+Import map: aliased to relative './src/components/sections/hero-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:6:1
+Error: Module not found: Can't resolve '@/components/sections/hero-section'
+  [90m4 |[0m [36mimport[0m { [33mFaqSection[0m } [36mfrom[0m [32m"@/components/sections/faq-section"[0m;
+  [90m5 |[0m [36mimport[0m { [33mGallerySection[0m } [36mfrom[0m [32m"@/components/sections/gallery-section"[0m;
+[31m[1m>[0m [90m6 |[0m [36mimport[0m { [33mHeroSection[0m } [36mfrom[0m [32m"@/components/sections/hero-section"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m7 |[0m [36mimport[0m { [33mLaserSection[0m } [36mfrom[0m [32m"@/components/sections/laser-section"[0m;
+  [90m8 |[0m [36mimport[0m { [33mServicesSection[0m } [36mfrom[0m [32m"@/components/sections/services-section"[0m;
+  [90m9 |[0m [36mimport[0m { [33mFooter[0m } [36mfrom[0m [32m"@/components/layout/footer"[0m;
+
+Import map: aliased to relative './src/components/sections/hero-section' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+Turbopack build encountered 1 error:
+./src/app
+Error: Could not find the Next.js package (next/package.json)
+Resolved from: C:\Users\brand\OneDrive\Desktop\Proyectos paginas wb\TheiraMedical\src\app
+Filesystem root used for resolution: C:\Users\brand\OneDrive\Desktop\Proyectos paginas wb\TheiraMedical
+
+Possible causes:
+  - node_modules is being reorganized by a concurrent install (e.g. pnpm adding a package with a `next` peer dependency). This is transient and should clear once the install completes.
+  - node_modules/next was removed, renamed, or has a broken symlink.
+  - The workspace root is incorrect — see turbopack.root in the Next.js config docs for how to configure it.
+  - In a monorepo, the Next.js package may only exist in a directory above the closest directory containing a package manager lockfile. The workspace root is detected by locating the nearest package manager lockfile.
+  - Next.js is installed globally rather than as a project dependency. This is not supported; install it locally.
+
+Note: To ensure a hermetic build and a portable cache, files outside of the workspace root are not compiled.
+
+https://nextjs.org/docs/app/api-reference/config/next-config-js/turbopack#root-directory
+
+
