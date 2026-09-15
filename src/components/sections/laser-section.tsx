@@ -1,4 +1,3 @@
-import { Check } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -6,12 +5,6 @@ import { SectionHeading } from "@/components/ui/section-heading";
 import { WhatsAppLink } from "@/components/ui/whatsapp-link";
 import { confirmedLaserPrices } from "@/data/catalog";
 
-const details = [
-  "Tratamiento dirigido a lograr una reducción progresiva del crecimiento del vello mediante tecnología láser.",
-  "Sesiones por zona.",
-  "Precios por sesión.",
-  "Atención con cita previa.",
-];
 
 export function LaserSection() {
   return (
@@ -27,16 +20,8 @@ export function LaserSection() {
           <SectionHeading
             eyebrow="Conoce el tratamiento"
             title="Depilación láser"
-            description="Tratamiento dirigido a lograr una reducción progresiva del crecimiento del vello mediante tecnología láser. Consulta las zonas disponibles y los precios confirmados por sesión."
+            description="Tratamiento dirigido a lograr una reducción progresiva del crecimiento del vello mediante tecnología láser."
           />
-          <ul className="mt-6 grid gap-3 sm:grid-cols-2">
-            {details.map((detail) => (
-              <li key={detail} className="flex items-start gap-3 rounded-[18px] bg-[var(--color-warm-white)] p-3.5 text-[0.92rem] font-semibold text-[var(--color-coffee)]">
-                <Check className="mt-0.5 size-4 shrink-0 text-[var(--color-terracotta)]" aria-hidden="true" />
-                {detail}
-              </li>
-            ))}
-          </ul>
           <div className="mt-6 grid grid-cols-2 gap-x-4 gap-y-2 border-y border-[var(--color-beige)] py-5 text-[0.84rem] sm:grid-cols-3">
             {confirmedLaserPrices.map((zone) => <div key={zone.name} className="flex items-center justify-between gap-2 border-b border-[var(--color-beige)]/70 py-2"><span>{zone.name}</span><strong className="text-[var(--color-terracotta)]">${zone.price}</strong></div>)}
           </div>

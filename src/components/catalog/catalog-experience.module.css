@@ -52,7 +52,7 @@
 .assessmentPill, .pricePill { display: inline-flex; min-height: 27px; align-items: center; border-radius: 999px; padding: 5px 9px; font-size: 0.73rem; font-weight: 600; line-height: 1.1; }
 .assessmentPill { background: color-mix(in srgb, var(--color-nude), white 43%); color: #70483a; }
 .pricePill { background: var(--color-beige); }
-.consultButton { min-height: 38px; flex: 0 0 auto; background: var(--color-coffee); padding-inline: 15px; color: white; font-size: 0.86rem; }
+.consultButton { min-height: 38px; flex: 0 0 auto; margin-left: auto; background: var(--color-coffee); padding-inline: 15px; color: white; font-size: 0.86rem; }
 .consultButton:hover, .closingButton:hover { background: var(--color-terracotta); }
 
 .supportingPanel, .pricePanel { margin-top: 16px; border: 1px solid var(--color-beige); border-radius: 20px; background: color-mix(in srgb, var(--color-beige), white 42%); padding: 18px 20px; }

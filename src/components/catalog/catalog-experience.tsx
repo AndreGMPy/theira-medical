@@ -50,8 +50,8 @@ export function CatalogExperience() {
               <div className={styles.categoryCopy}>
                 <p className={styles.categoryNumber}>{String(catalogCategories.indexOf(category) + 1).padStart(2, "0")} / 08</p>
                 <h2>{category.title}</h2>
-                <p className={styles.categorySubtitle}>{category.subtitle}</p>
-                <p className={styles.categoryDescription}>{category.description}</p>
+                {category.subtitle ? <p className={styles.categorySubtitle}>{category.subtitle}</p> : null}
+                {category.description ? <p className={styles.categoryDescription}>{category.description}</p> : null}
                 <WhatsAppLink message={`Hola, me gustaría recibir información sobre la categoría ${category.title} y agendar una valoración con la Dra. Jenifer Gordillo Salazar.`} className={styles.categoryButton}><MessageCircle aria-hidden="true" /> Consultar categoría</WhatsAppLink>
               </div>
               <CategoryImage category={category} />
@@ -66,7 +66,11 @@ export function CatalogExperience() {
                     {treatment.description ? <p className={styles.treatmentDescription}>{treatment.description}</p> : null}
                   </div>
                   <div className={styles.cardFooter}>
-                    <span className={treatment.requiresAssessment ? styles.assessmentPill : styles.pricePill}>{treatment.priceLabel ?? (treatment.requiresAssessment ? "Requiere valoración" : "Consultar precio")}</span>
+                    {treatment.priceLabel || treatment.requiresAssessment ? (
+                      <span className={treatment.requiresAssessment ? styles.assessmentPill : styles.pricePill}>
+                        {treatment.priceLabel ?? "Requiere valoración"}
+                      </span>
+                    ) : null}
                     {treatment.actionHref ? <a href={treatment.actionHref} className={styles.consultButton}>{treatment.actionLabel}</a> : <WhatsAppLink message={treatment.whatsappMessage} className={styles.consultButton}>Consultar</WhatsAppLink>}
                   </div>
                 </article>
@@ -111,7 +115,7 @@ export function CatalogExperience() {
       </div>
 
       {activeCategory !== "todas" ? <button type="button" onClick={() => { setActiveCategory("todas"); window.scrollTo({ top: document.getElementById("catalogo-indice")?.offsetTop ?? 0, behavior: "smooth" }); }} className={styles.showAllButton}>Ver todas las categorías</button> : null}
-      <div className={styles.closing}><p>¿Te gustaría conocer qué protocolo es adecuado para ti?</p><WhatsAppLink className={styles.closingButton}>Agendar valoración <ArrowUpRight aria-hidden="true" /></WhatsAppLink></div>
+      <div className={styles.closing}><p>Tu bienestar comienza con una valoración personalizada.</p><WhatsAppLink className={styles.closingButton}>Agenda tu valoración <ArrowUpRight aria-hidden="true" /></WhatsAppLink></div>
     </div>
   );
 }

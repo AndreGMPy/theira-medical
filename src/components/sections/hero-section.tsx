@@ -14,7 +14,7 @@ export function HeroSection() {
           <p className="mb-4 text-[0.78rem] font-bold uppercase tracking-[0.18em] text-[var(--color-terracotta)]">{siteConfig.positioning}</p>
           <p className="font-[family-name:var(--font-heading)] text-[1.25rem] font-semibold text-[var(--color-coffee)] sm:text-[1.5rem]">Dra. Jenifer Gordillo Salazar</p>
           <h1 className="max-w-[680px] font-[family-name:var(--font-heading)] text-[clamp(2.5rem,5vw,4.25rem)] font-semibold leading-[1.02] tracking-[-0.035em] text-[var(--color-coffee)]">
-            Tu bienestar, cuidado con intención
+            Tu bienestar comienza con una valoración personalizada.
           </h1>
           <p className="mt-5 max-w-xl text-[0.98rem] leading-7 text-[var(--color-muted)] sm:text-[1.04rem]">
             Médica con formación en Medicina Estética, Antienvejecimiento y Regenerativa, enfocada en el cuidado integral de la salud, la belleza y el bienestar.
@@ -29,7 +29,7 @@ export function HeroSection() {
           </div>
           <div className="mt-7 flex items-center gap-3 text-[0.9rem] text-[var(--color-muted)]">
             <span className="grid size-9 place-items-center rounded-full bg-[var(--color-beige)] text-[var(--color-terracotta)]"><CalendarDays className="size-4" aria-hidden="true" /></span>
-            Atención con cita previa y valoración personalizada.
+            Valoración médica previa.
           </div>
         </div>
 
@@ -40,7 +40,7 @@ export function HeroSection() {
           </div>
           <div className="absolute -bottom-4 -left-2 max-w-48 rounded-2xl border border-white/70 bg-[color:color-mix(in_srgb,var(--color-warm-white),transparent_8%)] p-3.5 shadow-lg backdrop-blur sm:-left-6">
             <p className="font-[family-name:var(--font-heading)] text-[1.1rem] font-semibold leading-none text-[var(--color-coffee)]">Theira Medical</p>
-            <p className="mt-1.5 text-[0.74rem] leading-4 text-[var(--color-muted)]">Atención personalizada y valoración médica.</p>
+            <p className="mt-1.5 text-[0.74rem] leading-4 text-[var(--color-muted)]">Medicina Estética · Regenerativa · Antienvejecimiento</p>
           </div>
         </div>
       </div>

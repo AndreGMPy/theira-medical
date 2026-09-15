@@ -11,10 +11,10 @@ import styles from "./page.module.css";
 
 export const metadata: Metadata = {
   title: "Catálogo de servicios | Theira Medical",
-  description: "Consulta el catálogo de servicios de medicina estética, regenerativa, antienvejecimiento, depilación láser y bienestar funcional de Theira Medical.",
+  description: "Menú de servicios de la Dra. Jenifer Gordillo Salazar. Medicina Estética & Bienestar Funcional.",
   openGraph: {
     title: "Catálogo de servicios | Theira Medical",
-    description: "Consulta el catálogo de servicios de medicina estética, regenerativa, antienvejecimiento, depilación láser y bienestar funcional de Theira Medical.",
+    description: "Menú de servicios de la Dra. Jenifer Gordillo Salazar. Medicina Estética & Bienestar Funcional.",
   },
 };
 
@@ -28,7 +28,7 @@ export default function CatalogPage() {
             <p className={styles.eyebrow}>Theira Medical</p>
             <h1 className={styles.title}>Menú de servicios</h1>
             <p className={styles.kicker}>Medicina Estética &amp; Bienestar Funcional</p>
-            <p className={styles.intro}>Una guía web para recorrer los tratamientos de la Dra. Jenifer Gordillo Salazar y elegir el siguiente paso desde tu teléfono.</p>
+            <p className={styles.intro}>Medicina Estética · Regenerativa · Antienvejecimiento.</p>
             <div className={styles.actions}><WhatsAppLink className={styles.primaryButton}>Agendar valoración</WhatsAppLink><a href="#catalogo" className={styles.secondaryButton}>Explorar catálogo</a></div>
           </div>
           <figure className={styles.heroImage}><Image src="/Gallery/catalogo/catalogo-portada-modelo-negro-dorado.png" alt="Portada visual del catálogo de servicios" fill priority sizes="(max-width: 767px) 100vw, 390px" className="object-cover" /></figure>

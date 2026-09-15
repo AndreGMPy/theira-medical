@@ -1,4 +1,4 @@
-import { Clock3, Instagram, MapPin } from "lucide-react";
+import { ClipboardCheck, Instagram, MapPin } from "lucide-react";
 import Image from "next/image";
 
 import { siteConfig } from "@/config/site";
@@ -22,9 +22,9 @@ export function ContactSection() {
               <p className="mt-2 text-sm leading-6 text-[var(--color-muted)]">{siteConfig.address}</p>
             </div>
             <div className="rounded-[20px] border border-[var(--color-beige)] bg-[var(--color-warm-white)] p-5">
-              <Clock3 className="size-5 text-[var(--color-terracotta)]" aria-hidden="true" />
-              <p className="mt-4 text-sm font-bold text-[var(--color-coffee)]">Atención con cita</p>
-              <p className="mt-2 text-sm leading-6 text-[var(--color-muted)]">{siteConfig.hours}</p>
+              <ClipboardCheck className="size-5 text-[var(--color-terracotta)]" aria-hidden="true" />
+              <p className="mt-4 text-sm font-bold text-[var(--color-coffee)]">Agenda tu cita</p>
+              <p className="mt-2 text-sm leading-6 text-[var(--color-muted)]">{siteConfig.appointmentNote}</p>
             </div>
           </div>
           <div className="mt-5 flex flex-wrap gap-x-4 gap-y-2 text-[0.92rem] font-bold text-[var(--color-coffee)]">

@@ -8,7 +8,7 @@ export const siteConfig = {
   location: "Moroleón, Gto.",
   address: "Calle Jaime Nuno 512, Moroleón, Gto.",
   phoneDisplay: "+52 445 215 1625",
-  hours: "Atención con cita previa.",
+  appointmentNote: "Valoración médica previa.",
   positioning: "Medicina Estética · Regenerativa · Antienvejecimiento",
   navigation: [
     { label: "Inicio", href: "/" },

@@ -24,7 +24,7 @@ export function Footer() {
             </div>
           </div>
           <p className="mt-5 text-[0.92rem] leading-6 text-[var(--color-muted)]">
-            Medicina estética y bienestar con atención cercana, responsable y personalizada.
+            Medicina Estética · Regenerativa · Antienvejecimiento
           </p>
         </div>
 

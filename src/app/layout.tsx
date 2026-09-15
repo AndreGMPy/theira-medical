@@ -8,11 +8,11 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: "Dra. Jenifer Gordillo Salazar | Theira Medical",
   description:
-    "Medicina estética, regenerativa y antienvejecimiento en Moroleón, Guanajuato. Consulta tratamientos y agenda una valoración con la Dra. Jenifer Gordillo Salazar.",
+    "Medicina Estética · Regenerativa · Antienvejecimiento. Calle Jaime Nuno 512, Moroleón, Gto.",
   openGraph: {
     title: "Dra. Jenifer Gordillo Salazar | Theira Medical",
     description:
-      "Medicina estética, regenerativa y antienvejecimiento en Moroleón, Guanajuato.",
+      "Medicina Estética · Regenerativa · Antienvejecimiento. Calle Jaime Nuno 512, Moroleón, Gto.",
     locale: "es_MX",
     type: "website",
   },
