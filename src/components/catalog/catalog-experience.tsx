@@ -20,7 +20,7 @@ function CategoryImage({ category }: { category: Category }) {
 function TreatmentVisual({ treatment }: { treatment: Treatment }) {
   return (
     <div className={styles.treatmentVisual}>
-      <Image src={treatment.image} alt={treatment.imageAlt} fill sizes="(max-width: 600px) 94px, 118px" className={styles.treatmentImage} />
+      <Image src={treatment.image} alt={treatment.imageAlt} fill sizes="(max-width: 639px) 112px, 118px" className={styles.treatmentImage} />
     </div>
   );
 }

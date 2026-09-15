@@ -135,7 +135,9 @@
   }
 
   .heroImage {
-    min-height: 200px;
+    min-height: 0;
+    aspect-ratio: 4 / 3;
+    background: #f8f2ed;
   }
 
   .catalog {

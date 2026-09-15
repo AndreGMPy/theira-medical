@@ -7,7 +7,7 @@ export function DoctorSection() {
         <div className="relative mx-auto w-full max-w-[370px]">
           <div className="absolute -left-5 top-10 h-48 w-48 rounded-full bg-[var(--color-beige)]" aria-hidden="true" />
           <div className="relative aspect-[4/5] overflow-hidden rounded-[24px] bg-[var(--color-beige)]">
-            <Image src="/Gallery/reales/doctora-jenifer-retrato-bienvenida.png" alt="Dra. Jenifer Gordillo Salazar" fill sizes="(max-width: 1024px) 100vw, 38vw" className="object-cover object-center" />
+            <Image src="/Gallery/reales/doctora-jenifer-retrato-bienvenida.png" alt="Dra. Jenifer Gordillo Salazar" fill sizes="(max-width: 1024px) 100vw, 38vw" className="object-contain object-center md:object-cover" />
           </div>
         </div>
         <div>

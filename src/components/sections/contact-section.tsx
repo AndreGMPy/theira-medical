@@ -34,7 +34,7 @@ export function ContactSection() {
           </div>
         </div>
         <div className="relative min-h-[360px] overflow-hidden rounded-[24px] border border-[var(--color-beige)] bg-[var(--color-beige)]">
-          <Image src="/Gallery/reales/doctora-jenifer-retrato-contacto.png" alt="Dra. Jenifer Gordillo Salazar con estetoscopio" fill sizes="(max-width: 1024px) 100vw, 42vw" className="object-cover object-center" />
+          <Image src="/Gallery/reales/doctora-jenifer-retrato-contacto.png" alt="Dra. Jenifer Gordillo Salazar con estetoscopio" fill sizes="(max-width: 1024px) 100vw, 42vw" className="object-contain object-center md:object-cover" />
           <div className="absolute inset-x-4 bottom-4 rounded-[18px] border border-white/60 bg-[color:color-mix(in_srgb,var(--color-warm-white),transparent_10%)] p-4 backdrop-blur-md sm:inset-x-6 sm:bottom-6"><p className="font-[family-name:var(--font-heading)] text-2xl font-semibold text-[var(--color-coffee)]">Agenda tu cita</p><p className="mt-1 text-sm text-[var(--color-muted)]">{siteConfig.phoneDisplay}</p></div>
         </div>
       </div>

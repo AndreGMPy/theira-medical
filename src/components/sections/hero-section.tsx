@@ -36,7 +36,7 @@ export function HeroSection() {
         <div className="relative mx-auto w-full max-w-[28.5rem] animate-[fade-up_900ms_ease-out_both] lg:ml-auto">
           <div className="absolute -right-3 -top-3 h-36 w-36 rounded-tl-[4rem] border border-[var(--color-terracotta)] sm:-right-6 sm:-top-6" aria-hidden="true" />
           <div className="relative aspect-[5/6] overflow-hidden rounded-[24px] bg-[var(--color-beige)] shadow-[0_18px_44px_rgba(58,45,42,0.1)]">
-            <Image src="/Gallery/reales/doctora-jenifer-retrato-bienvenida.png" alt="Dra. Jenifer Gordillo Salazar" fill priority sizes="(max-width: 1024px) 100vw, 44vw" className="object-cover object-center" />
+            <Image src="/Gallery/reales/doctora-jenifer-retrato-bienvenida.png" alt="Dra. Jenifer Gordillo Salazar" fill priority sizes="(max-width: 1024px) 100vw, 44vw" className="object-contain object-center md:object-cover" />
           </div>
           <div className="absolute -bottom-4 -left-2 max-w-48 rounded-2xl border border-white/70 bg-[color:color-mix(in_srgb,var(--color-warm-white),transparent_8%)] p-3.5 shadow-lg backdrop-blur sm:-left-6">
             <p className="font-[family-name:var(--font-heading)] text-[1.1rem] font-semibold leading-none text-[var(--color-coffee)]">Theira Medical</p>

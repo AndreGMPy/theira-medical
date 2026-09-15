@@ -31,7 +31,7 @@ export default function CatalogPage() {
             <p className={styles.intro}>Medicina Estética · Regenerativa · Antienvejecimiento.</p>
             <div className={styles.actions}><WhatsAppLink className={styles.primaryButton}>Agendar valoración</WhatsAppLink><a href="#catalogo" className={styles.secondaryButton}>Explorar catálogo</a></div>
           </div>
-          <figure className={styles.heroImage}><Image src="/Gallery/catalogo/catalogo-portada-modelo-negro-dorado.png" alt="Portada visual del catálogo de servicios" fill priority sizes="(max-width: 767px) 100vw, 390px" className="object-cover" /></figure>
+          <figure className={styles.heroImage}><Image src="/Gallery/catalogo/catalogo-portada-modelo-negro-dorado.png" alt="Portada visual del catálogo de servicios" fill priority sizes="(max-width: 767px) 100vw, 390px" className="object-contain object-center md:object-cover" /></figure>
         </section>
         <div id="catalogo" className={styles.catalog}><CatalogExperience /></div>
       </main>

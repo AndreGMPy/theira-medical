@@ -11,8 +11,8 @@ export function LaserSection() {
     <section id="depilacion-laser" className="scroll-mt-24 overflow-hidden bg-[var(--color-ivory)] py-12 sm:py-14 lg:py-[72px]">
       <div className="mx-auto grid max-w-[1280px] items-center gap-10 px-[18px] sm:px-6 lg:grid-cols-[0.9fr_1.1fr] lg:gap-16 lg:px-8">
         <div className="relative order-2 mx-auto w-full max-w-[430px] lg:order-1">
-          <div className="relative aspect-square overflow-hidden rounded-[24px] bg-[var(--color-nude)]">
-            <Image src="/Gallery/catalogo-fiel-pdf/depilacion-laser.jpg" alt="Aplicación de depilación láser" fill sizes="(max-width: 1024px) 100vw, 40vw" className="object-cover object-center" />
+          <div className="relative aspect-[4/3] overflow-hidden rounded-[24px] bg-[#f8f2ed] md:aspect-square md:bg-[var(--color-nude)]">
+            <Image src="/Gallery/catalogo-fiel-pdf/depilacion-laser.jpg" alt="Aplicación de depilación láser" fill sizes="(max-width: 1024px) 100vw, 40vw" className="object-contain object-center md:object-cover" />
           </div>
           <div className="absolute -bottom-4 -right-2 size-28 rounded-full border-[10px] border-[var(--color-ivory)] bg-[var(--color-sage)] sm:-right-6 sm:size-36" aria-hidden="true" />
         </div>
